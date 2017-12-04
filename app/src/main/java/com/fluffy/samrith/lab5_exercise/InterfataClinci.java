@@ -21,7 +21,7 @@ public class InterfataClinci extends AppCompatActivity {
             }
         });
 
-        Button button2 = (Button)findViewById(R.id.button1);
+        Button button2 = (Button)findViewById(R.id.button2);
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -29,7 +29,7 @@ public class InterfataClinci extends AppCompatActivity {
             }
         });
 
-        Button button3 = (Button)findViewById(R.id.button1);
+        Button button3 = (Button)findViewById(R.id.button3);
         button3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -37,7 +37,7 @@ public class InterfataClinci extends AppCompatActivity {
             }
         });
 
-        Button button4 = (Button)findViewById(R.id.button1);
+        Button button4 = (Button)findViewById(R.id.button4);
         button4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -45,7 +45,7 @@ public class InterfataClinci extends AppCompatActivity {
             }
         });
 
-        Button button5 = (Button)findViewById(R.id.button1);
+        Button button5 = (Button)findViewById(R.id.button5);
         button5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
